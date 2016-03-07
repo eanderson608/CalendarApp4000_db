@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../client/app/admin/admin.module.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;;AAEb,OAAO,CAAC,MAAM,CAAC,0BAA0B,EAAE,CACzC,yBAAyB,EACzB,WAAW,CACZ,CAAC,CAAC","file":"admin.module.js","sourcesContent":["'use strict';\n\nangular.module('calendarApp4000App.admin', [\n  'calendarApp4000App.auth',\n  'ui.router'\n]);\n"]}
